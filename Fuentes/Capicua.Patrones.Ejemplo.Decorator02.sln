@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capicua.Patrones.Ejemplo.Decorator02", "Capicua.Patrones.Ejemplo.Decorator02\Capicua.Patrones.Ejemplo.Decorator02.csproj", "{941AE18E-A687-4493-A26E-BA6889052C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capicua.Patrones.Ejemplo.Decorator02.Seguridad", "Capicua.Patrones.Ejemplo.Decorator02.Seguridad\Capicua.Patrones.Ejemplo.Decorator02.Seguridad.csproj", "{F4770037-21E2-4A3F-AC6F-A3A54C9B4E05}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941AE18E-A687-4493-A26E-BA6889052C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941AE18E-A687-4493-A26E-BA6889052C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941AE18E-A687-4493-A26E-BA6889052C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941AE18E-A687-4493-A26E-BA6889052C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4770037-21E2-4A3F-AC6F-A3A54C9B4E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4770037-21E2-4A3F-AC6F-A3A54C9B4E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4770037-21E2-4A3F-AC6F-A3A54C9B4E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4770037-21E2-4A3F-AC6F-A3A54C9B4E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

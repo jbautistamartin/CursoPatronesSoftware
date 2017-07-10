@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Capicua.Patrones.Ejemplo.Adapter01.Service.FechaActualService" CodeBehind="CurrentDateTimeService.svc.cs" %>
