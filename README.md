@@ -1,24 +1,29 @@
 # Materiales para el curso "Patrones de Software"
 
-## Acerca de este documento
+## ACERCA DEL INSTRUCTOR
+
+José Luis Bautista Martín, Ingeniero de Sistemas, con maestría en “investigación en ingeniería de Software”.
+Mi experiencia laboral en cuanto a desarrollo de software abarca desde tecnologías “legacy”, hasta tecnologías de vanguardia, poniendo siempre una especial atención en la construcción de software escalable, modular y sostenible.
+Igualmente estoy especializado en la interconexión de diversos sistemas y plataformas para conseguir una solución coherente entre la tecnología actual en producción y nuevas tecnologías del mercado.
+
+Una de mis inquietudes actuales es simplificar el desarrollo de software, permitiendo mediante herramientas generadoras de código, patrones de software, programación orientada a aspectos o simplemente interfaces sencillas y claras que el programador se concentre en resolver los problemas propios de la solución a implementar (esto es, los requisitos de negocio a representar en forma de software) y no se tenga que preocupar de tareas repetitivas, generalidades de los sistemas, o problemas técnicos, que no hacen más que distraerle de sus verdaderos objetivos.
+
+## ACERCA DE ESTE DOCUMENTO
 
 La misión de este documento es exponer los objetivos, mecánica y temerarios planteados para el curso de CreSer “Patrones de Software”.
 
-## Objetivos del curso
-
+## OBJETIVOS DEL CURSO
 
 Los patrones de software son soluciones previamente establecidas (y probadas como optimas) a problemas conocidos y repetitivos dentro del desarrollo de software.
 El curso de “Patrones de Software” pretende proporcionar herramientas para crear un escenario en el que se favorezca la creación de software de calidad, escalable y funcional.
 
 A la vez que se revisan conceptos básicos para la ingeniera de software (para establecer un contexto de inicio) se estudiaran una selección de los más útiles patrones de software. Por otro lado y a modo de complemento se revisar una colección de los “peores” patrones de software, o anti-patrones (comportamiento y metodologías perjudiciales para la construcción de sistemas), de forma que sirva como elementos comparativo.
 
-## Metodología
-
+## METODOLOGÍA
 
 Se distribuirá el curso en tres sesiones de tres horas cada una en las cuales, después de una introducción de los temas a plantear, se realizan talleres prácticos de los patrones de software, los cuales serán realizados en equipos de a dos ( [dos personas compartiendo una computadora](https://desdelashorasextras.blogspot.mx/2014/12/metodologias-agiles-programacion-en.html) ).
 
-## Requisitos
-
+## REQUISITOS
 
 Es necesario una laptop por cada dos personas, y tener conocimientos promedios de programación en C#. La computadora debe tener instalador Visual Studio 2010 o superior.
 *   Visual Studio 2015 (o superior).
@@ -38,8 +43,7 @@ Es necesario una laptop por cada dos personas, y tener conocimientos promedios d
 *   [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
 
 
-## Temario
-
+## TEMARIO
 
 1.  **Presentación de objetivos**
 
